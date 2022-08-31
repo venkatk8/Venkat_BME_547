@@ -1,2 +1,2 @@
-# Venkat_BME_547
+# Project Natal
 Git rep for BME 547 course
